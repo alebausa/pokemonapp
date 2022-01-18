@@ -2,7 +2,7 @@
   "name": "express-demo",
   "version": "1.0.0",
   "description": "*Ironhack-Project-M2*",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "seed": "node seeds/cards.seed.js",
     "dev": "nodemon main.js",
